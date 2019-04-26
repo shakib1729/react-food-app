@@ -1,0 +1,21 @@
+.favourite {
+  height: 40rem;
+  overflow: auto;
+  box-shadow: 0px 5px 20px rgb(71, 71, 71);
+}
+
+ .favourite-name {
+    font-size: 1rem;
+    color: #560808;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: .3rem; }
+
+li{
+      list-style: none;
+
+  }
+
+  .link{
+  text-decoration:none;
+}

@@ -1,0 +1,22 @@
+
+  .results-name {
+    font-size: 1rem;
+    color: #FAC8C8;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: .3rem; }
+
+    li{
+      list-style: none;
+    }
+
+  .results-img{
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .result1{
+    box-shadow: 0px .5px 20px rgb(71, 71, 71);
+    text-align: center;
+  }
