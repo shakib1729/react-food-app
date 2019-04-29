@@ -7,9 +7,11 @@ A recipe searching App created using React
 3) npm start
 
 Features: 
+
     1) Built purely with React, no any other library or framework used
     
     2) Simple UI
+    
     3) Search from 1.7+ million recipes ( uses Edamam API)
     
     4) Get Recipe details alongwith calorie contents
